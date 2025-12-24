@@ -10,8 +10,9 @@ pipeline {
         
         stage('build') {
             steps {
-                echo 'Hello Rudeboy'
+                echo 'Hello Rudeboy varun how are u'
             }
         }
     }
 }
+
